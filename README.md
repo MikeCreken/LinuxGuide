@@ -34,32 +34,32 @@
 - 适合后端开发/测试/银行(会将所经历的总结与此)
 
 
-## :see_no_evil: 面经含答案
+## :see_no_evil: 面经含答案(待续。。)
 - [x] [面经合集(题解)]()
 
-## :alien: 操作系统
+## :alien: 操作系统(待续。。)
 
 - [x] [操作系统面试合集]()
-- [x] [Linux必会20个常用命令]()
+- [x] [Linux必会20个常用命令](https://github.com/MikeCreken/LinuxGuide/blob/master/Linux基础必备/20个必备Linux命令.md)
 
-## :penguin: 计算机网络
+## :penguin: 计算机网络(待续。。)
 
 - [ ] 计算机网络高频面试合集
 - [x] [HTTP万字总结](https://github.com/MikeCreken/LinuxGuide/blob/master/计算机网络/HTTP/1 Http的前生后世.md)
 - [x] [DNS总结](https://github.com/MikeCreken/LinuxGuide/blob/master/计算机网络/DNS/DNS.md)
 
-## :zap: 数据库
+## :zap: 数据库(待续。。)
 
-- [x] 数据库基础(Mysql)
-- [x] 数据库进阶(Mysql)
+- [x] [数据库基础(Mysql)](https://github.com/MikeCreken/LinuxGuide/blob/master/高频数据库面试(Database)/1 数据库的基础.md)
+- [x] [数据库进阶(Mysql)](https://github.com/MikeCreken/LinuxGuide/blob/master/高频数据库面试(Database)/2 数据库进阶.md)
 - [ ] Redis
 
-## :egg: 算法解析
+## :egg: 算法解析(待续。。。)
 
 - [ ] [剑指offer题解]
 - [ ] [我的Leetcode解题集]( )
 
-## :see_no_evil: 高并发必备
+## :see_no_evil: 高并发必备(待续。。)
 
 - [ ] [分布式]() 
 - [ ] [集群技术]() 
@@ -79,7 +79,7 @@
 - [x] [memcached](https://github.com/memcached/memcached) 
 - [x] [muduo](https://github.com/chenshuo/muduo)
 
-:pushpin:编程语言基础
+#  :pushpin:编程语言基础
 
 - [ ] [c/c++语言高频题合集]()
 - [ ] [java_Basing]()
