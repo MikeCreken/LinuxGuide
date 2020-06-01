@@ -45,13 +45,13 @@
 ## :penguin: 计算机网络
 
 - [ ] 计算机网络高频面试合集
-- [x] [HTTP万字总结]([https://github.com/MikeCreken/LinuxGuide/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/HTTP/1%20Http%E7%9A%84%E5%89%8D%E7%94%9F%E5%90%8E%E4%B8%96.md](https://github.com/MikeCreken/LinuxGuide/blob/master/计算机网络/HTTP/1 Http的前生后世.md))
-- [x] DNS总结
+- [x] [HTTP万字总结](https://github.com/MikeCreken/LinuxGuide/blob/master/计算机网络/HTTP/1 Http的前生后世.md)
+- [x] [DNS总结](https://github.com/MikeCreken/LinuxGuide/blob/master/计算机网络/DNS/DNS.md)
 
 ## :zap: 数据库
 
 - [x] 数据库基础(Mysql)
-- [x] 数据库进阶(Redis)
+- [x] 数据库进阶(Mysql)
 - [ ] Redis
 
 ## :egg: 算法解析
