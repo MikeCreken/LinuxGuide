@@ -35,23 +35,23 @@
 
 
 ## :see_no_evil: 面经含答案(待续。。)
-- [x] [面经合集(题解)]()
+- [ ] [面经合集(题解)]()
 
 ## :alien: 操作系统(待续。。)
 
-- [x] [操作系统面试合集]()
+- [ ] [操作系统面试合集]()
 - [x] [Linux必会20个常用命令](https://github.com/MikeCreken/LinuxGuide/blob/master/Linux基础必备/20个必备Linux命令.md)
 
 ## :penguin: 计算机网络(待续。。)
 
 - [ ] 计算机网络高频面试合集
-- [x] [HTTP万字总结](https://github.com/MikeCreken/LinuxGuide/blob/master/计算机网络/HTTP/1 Http的前生后世.md)
+- [x] [HTTP万字总结](https://github.com/MikeCreken/LinuxGuide/blob/master/计算机网络/HTTP/1Http的前生后世.md)
 - [x] [DNS总结](https://github.com/MikeCreken/LinuxGuide/blob/master/计算机网络/DNS/DNS.md)
 
 ## :zap: 数据库(待续。。)
 
-- [x] [数据库基础(Mysql)](https://github.com/MikeCreken/LinuxGuide/blob/master/高频数据库面试(Database)/1 数据库的基础.md)
-- [x] [数据库进阶(Mysql)](https://github.com/MikeCreken/LinuxGuide/blob/master/高频数据库面试(Database)/2 数据库进阶.md)
+- [x] [数据库基础(Mysql)](https://github.com/MikeCreken/LinuxGuide/blob/master/高频数据库面试(Database)/1数据库的基础.md)
+- [x] [数据库进阶(Mysql)](https://github.com/MikeCreken/LinuxGuide/blob/master/高频数据库面试(Database)/2数据库进阶.md)
 - [ ] Redis
 
 ## :egg: 算法解析(待续。。。)
