@@ -9,7 +9,7 @@
 
 | 面经(含答案) | 操作系统 | 计算机网络 | 数据库 | 手撕算法解析 | 后端开发必备 | 开源项目推荐 | 编程语言基础 | 考研相关 | 公众号 |
 | :---: | :----: | :---: | :----: | :----: | :----: | :----: | ------ | ------ | ------ |
-| [:sparkles:](#sparkles-校招经验) | [:alien:](#alien-操作系统) | [:penguin:](#penguin-计算机网络) | [:zap:](#zap-数据库) | [:egg:](#egg-算法解析) | [:see_no_evil:](#see_no_evil-后端开发必备) | [:baby_bottle:](#baby_bottle-开源项目推荐) | :pushpin: | [:runner:](#runner-后端开发必备) | [:pencil:](#pencil-公众号) |
+| [:sparkles:](#sparkles-面经) | [:alien:](#alien-操作系统) | [:penguin:](#penguin-计算机网络) | [:zap:](#zap-数据库) | [:egg:](#egg-算法解析) | [:see_no_evil: ](#see_no_evil-后端开发必备) | [:baby_bottle: ](#baby_bottle-开源项目推荐) | [:pushpin:](#baby_bottle-编程语言) | [:runner: ](#runner-考研相关) | [:pencil:](#pencil-公众号) |
 
 <br> 
 
@@ -34,8 +34,8 @@
 - 适合后端开发/测试/银行(会将所经历的总结与此)
 
 
-## :see_no_evil: 面经含答案(待续。。)
-- [ ] [面经合集(题解)]()
+## :sparkles: 面经含答案(待续。。)
+- [x] [面经合集(题解)](https://github.com/MikeCreken/LinuxGuide/tree/master/多家公司面试题解/面试经验贴(含题解))
 
 ## :alien: 操作系统(待续。。)
 
@@ -56,7 +56,7 @@
 
 ## :egg: 算法解析(待续。。。)
 
-- [ ] [剑指offer题解]
+- [ ] [剑指offer题解]()
 - [ ] [我的Leetcode解题集]( )
 
 ## :see_no_evil: 高并发必备(待续。。)
