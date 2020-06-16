@@ -36,6 +36,7 @@
 
 ## :sparkles: 面经含答案(待续。。)
 - [x] [面经合集(题解)](https://github.com/MikeCreken/LinuxGuide/tree/master/多家公司面试题解/面试经验贴(含题解))
+- [x] [HR常问合集](https://github.com/MikeCreken/LinuxGuide/blob/master/多家公司面试题解/HR小姐姐/HR常问问题.md)
 
 ## :alien: 操作系统(待续。。)
 
@@ -51,8 +52,8 @@
 
 ## :zap: 数据库(待续。。)
 
-- [x] [数据库基础(Mysql)](https://github.com/MikeCreken/LinuxGuide/blob/master/高频数据库面试(Database)/1 数据库的基础.md)
-- [x] [数据库进阶(Mysql)](https://github.com/MikeCreken/LinuxGuide/blob/master/高频数据库面试(Database)/2 数据库进阶.md)
+- [x] [数据库基础(Mysql)](https://github.com/MikeCreken/LinuxGuide/blob/master/高频数据库面试(Database)/数据库的基础.md)
+- [x] [数据库进阶(Mysql)](https://github.com/MikeCreken/LinuxGuide/blob/master/高频数据库面试(Database)/数据库进阶.md)
 - [ ] Redis
 
 ## :egg: 算法解析(待续。。。)
