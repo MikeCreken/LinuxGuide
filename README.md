@@ -52,8 +52,8 @@
 
 ## :zap: 数据库(待续。。)
 
-- [x] [数据库基础(Mysql)](https://github.com/MikeCreken/LinuxGuide/blob/master/高频数据库面试(Database)/数据库的基础.md)
-- [x] [数据库进阶(Mysql)](https://github.com/MikeCreken/LinuxGuide/blob/master/高频数据库面试(Database)/数据库进阶.md)
+- [x] [数据库基础(Mysql)](https://github.com/MikeCreken/LinuxGuide/blob/master/高频数据库面试(Database)/1数据库的基础.md)
+- [x] [数据库进阶(Mysql)](https://github.com/MikeCreken/LinuxGuide/blob/master/高频数据库面试(Database)/2数据库进阶.md)
 - [ ] Redis
 
 ## :egg: 算法解析(待续。。。)
