@@ -41,17 +41,18 @@
 
 - [ ] [操作系统面试合集]()
 - [x] [Linux必会20个常用命令](https://github.com/MikeCreken/LinuxGuide/blob/master/Linux基础必备/20个必备Linux命令.md)
+- [x] [Linux中的shell编程初探]([https://github.com/MikeCreken/LinuxGuide/blob/master/Linux%E5%9F%BA%E7%A1%80%E5%BF%85%E5%A4%87/Linux%E4%B8%AD%E7%9A%84shell%E5%88%9D%E6%8E%A2.md](https://github.com/MikeCreken/LinuxGuide/blob/master/Linux基础必备/Linux中的shell初探.md))
 
 ## :penguin: 计算机网络(待续。。)
 
 - [ ] 计算机网络高频面试合集
-- [x] [HTTP万字总结](https://github.com/MikeCreken/LinuxGuide/blob/master/计算机网络/HTTP/1Http的前生后世.md)
-- [x] [DNS总结](https://github.com/MikeCreken/LinuxGuide/blob/master/计算机网络/DNS/DNS.md)
+- [x] [HTTP万字总结]([https://github.com/MikeCreken/LinuxGuide/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/HTTP/1%20Http%E7%9A%84%E5%89%8D%E7%94%9F%E5%90%8E%E4%B8%96.md](https://github.com/MikeCreken/LinuxGuide/blob/master/计算机网络/HTTP/1 Http的前生后世.md))
+- [x] [DNS总结]([https://github.com/MikeCreken/LinuxGuide/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/DNS/DNS.md](https://github.com/MikeCreken/LinuxGuide/blob/master/计算机网络/DNS/DNS.md))
 
 ## :zap: 数据库(待续。。)
 
-- [x] [数据库基础(Mysql)](https://github.com/MikeCreken/LinuxGuide/blob/master/高频数据库面试(Database)/1数据库的基础.md)
-- [x] [数据库进阶(Mysql)](https://github.com/MikeCreken/LinuxGuide/blob/master/高频数据库面试(Database)/2数据库进阶.md)
+- [x] [数据库基础(Mysql)]([https://github.com/MikeCreken/LinuxGuide/blob/master/%E9%AB%98%E9%A2%91%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9D%A2%E8%AF%95(Database)/1%20%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E5%9F%BA%E7%A1%80.md](https://github.com/MikeCreken/LinuxGuide/blob/master/高频数据库面试(Database)/1 数据库的基础.md))
+- [x] [数据库进阶(Mysql)]([https://github.com/MikeCreken/LinuxGuide/blob/master/%E9%AB%98%E9%A2%91%E6%95%B0%E6%8D%AE%E5%BA%93%E9%9D%A2%E8%AF%95(Database)/2%20%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9B%E9%98%B6.md](https://github.com/MikeCreken/LinuxGuide/blob/master/高频数据库面试(Database)/2 数据库进阶.md))
 - [ ] Redis
 
 ## :egg: 算法解析(待续。。。)
